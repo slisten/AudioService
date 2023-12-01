@@ -7,6 +7,9 @@ using UnityEngine;
 
 namespace SF
 {
+    /// <summary>
+    /// 音频服务
+    /// </summary>
     public static partial class AudioService
     {
         internal static IAudioLoader m_loader;
